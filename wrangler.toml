@@ -1,0 +1,6 @@
+name = "manindra-cloudfare"
+type = "javascript"
+account_id = "2153dc495ce46a49c8a36feaac324f32"
+workers_dev = true
+route = ""
+zone_id = ""
